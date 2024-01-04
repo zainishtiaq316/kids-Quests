@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1022342269982",
+    "firebase_url": "https://live2020-815db.firebaseio.com",
+    "project_id": "live2020-815db",
+    "storage_bucket": "live2020-815db.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1022342269982:android:09a43b9e3e85f4e7b7320f",
+        "android_client_info": {
+          "package_name": "com.paklive.tvfreelive2020"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1022342269982-8qk8ifad02popssvjic9mi4o5kiqqbne.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDa_aQSlEd6Lef4HP6_fw6gdR1FMGccB2g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1022342269982-8qk8ifad02popssvjic9mi4o5kiqqbne.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
